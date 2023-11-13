@@ -21,3 +21,14 @@ Thereafter run composer update to install and update the plugins required to suc
 
 ## Further developments.
 Pre-loading the content of the uploaded file data to the fileInput is still a challenge. Anyone with any ideas please share.
+
+## Screenshots demo
+### The index page
+![Index page screenshot](screenshots/index.png)
+
+### The upload&Update page
+![upload&update page screenshot](screenshots/upload&update.png)
+![upload&update page screenshot](screenshots/upload_1.png)
+
+### The View page
+![View page screenshot](screenshots/view.png)
